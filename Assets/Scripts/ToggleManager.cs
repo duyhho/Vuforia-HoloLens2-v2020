@@ -18,6 +18,7 @@ public class ToggleManager : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.G))
         {
+            // Debug.Log("Toggle!");
             basePhantom.Toggle();
             combinedPhantom.Toggle();
         }

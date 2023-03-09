@@ -23,6 +23,8 @@ public class PhantomToggleOnOff : MonoBehaviour
         
     }
     public void Toggle() {
+        // Debug.Log("Toggle Inside!");
+
         isActive = !isActive;
         // renderer.enabled = isActive;
         gameObject.SetActive(isActive);
