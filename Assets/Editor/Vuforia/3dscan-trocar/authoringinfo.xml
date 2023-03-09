@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="33.0" toolVersion="v5.1.0-24-g2795492">
+        <ModelTarget name="3dscan-trocar" targetId="b82e3048cf6d49378b7132ec46e58557" version="11.1" toolVersion="v5.1.0-24-g2795492" bbox="-0.145975 -0.213805 -0.161873 0.109823 0.434563 0.167617" trackingMode="scan" upVector="0.0 1.0 0.0" />
+    </TargetSet>
+    <Assembly name="3dscan-trocar" assemblyId="81a70d7399494eecb47713bf00ac533e">
+        <Part name="3dscan-trocar" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
