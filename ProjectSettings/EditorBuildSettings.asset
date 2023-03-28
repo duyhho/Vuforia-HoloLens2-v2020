@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/SampleResources/Scenes/2-ImageTargets.unity
     guid: 03ddc4184641b534487cecd6dab620df
   - enabled: 1
-    path: Assets/SampleResources/Scenes/STANDALONE 2-ImageTarget.unity
+    path: Assets/SampleResources/Scenes/AR Navigation.unity
     guid: 03c1d694f22bb8a47ad30e55a10d069a
   - enabled: 0
     path: Assets/SampleResources/Scenes/1-Menu.unity
