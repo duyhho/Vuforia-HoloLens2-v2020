@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/SampleResources/Scenes/2-ImageTargets.unity
     guid: 03ddc4184641b534487cecd6dab620df
-  - enabled: 1
+  - enabled: 0
     path: Assets/SampleResources/Scenes/AR Navigation.unity
     guid: 03c1d694f22bb8a47ad30e55a10d069a
   - enabled: 0
@@ -26,6 +26,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/HandMeshTrackingScene.unity
     guid: ab4d89cbf628c444fb810fab7318fb16
+  - enabled: 1
+    path: Assets/SampleResources/Scenes/STANDALONE 2-ImageTarget.unity
+    guid: 35580001f6800884281e56df8640602f
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: ccfcc1c19beeb3e40b6ffecd226da296,
       type: 2}
